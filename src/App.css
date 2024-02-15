@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  color-scheme: light dark;
+  /* width: 100%; */
+  padding: 40px;
+  background-color: #242424;
+  color: rgba(255, 255, 255, 0.87);
+}
+.btns{
+  display: flex;
+  column-gap: 10px;
+}
+.btns button{
+  padding: 10px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.87);
+  font-weight: bold;
+  cursor: pointer;
+}
+.btns button.selected{
+  background-color: rgba(255, 255, 255, 0.87);
+  color: #242424;
+}
+
+p{
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.87);
+}

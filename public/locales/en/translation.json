@@ -1,0 +1,6 @@
+{
+  "greeting": "Hello, Welcome!",
+  "description": {
+    "line1": "Hey guys, I'm working as a professional <1>{{designation}}</1>."
+  }
+}
